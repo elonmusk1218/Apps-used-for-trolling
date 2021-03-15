@@ -1,0 +1,88 @@
+
+    --------------------------------------------------------------------
+    IconChanger                  LICENSE AGREEMENT / WARRANTY DISCLAIMER
+    --------------------------------------------------------------------
+
+         Copyright (C) 2002-2008 Shell Labs. All Rights Reserved.
+
+    --------------------------------------------------------------------
+
+    You should carefully read the following terms and conditions
+    before using this software (the "SOFTWARE") provided with this
+    agreement. Your use of this software indicates your acceptance
+    of this license agreement and warranty.
+
+    --------------------------------------------------------------------
+    OWNERSHIP
+    --------------------------------------------------------------------
+
+    The SOFTWARE is owned and copyrighted by Shell Labs.
+    Your license confers no title or ownership in the SOFTWARE
+    and should not be construed as a sale of any right in the SOFTWARE.
+
+    --------------------------------------------------------------------
+    REGISTERED VERSION LICENSE
+    --------------------------------------------------------------------
+
+    This license applies to the registered version of SOFTWARE.
+    If you are using an evaluation version of SOFTWARE, see the
+    "Evaluation Version License" section below.
+
+    One registered copy of SOFTWARE may either be used by a single
+    person who uses the software personally on one or more computers,
+    or installed on a single workstation used nonsimultaneously by
+    multiple people, but not both. This license is not transferable
+    to any other hardware product or other company, entity, or individual.
+
+    You may not use, copy, rent, lease, sell, modify, decompile,
+    disassemble, otherwise reverse engineer, or transfer the SOFTWARE
+    except as provided in this agreement. Any such unauthorized use
+    shall result in immediate and automatic termination of this license.
+
+    --------------------------------------------------------------------
+    EVALUATION VERSION LICENSE
+    --------------------------------------------------------------------
+
+    This license applies to the evaluation version of SOFTWARE.
+    If you are using a registered version of SOFTWARE, see the
+    "Registered Version License" section above.
+
+    This is not free software. Subject to the terms below, you are
+    hereby licensed to use this software for evaluation purposes
+    without charge. The evaluation version of IconChanger can change
+    no more than 3 icons and the maximum number of icons found
+    is limited to 3000, maximum number of favorite icons is limited to 3.
+    After you have fully evaluated the software, you are expected to 
+    either register this software to obtain a non-limited version, 
+    or remove it from your computer.
+    Ordering information is described on the Web site 
+    http://www.shelllabs.com/ When payment is received, you will get
+    a registration key for the latest version of this SOFTWARE.
+
+    The evaluation version of this SOFTWARE may be freely distributed,
+    provided the distribution package is not modified. No person or
+    company may charge a fee for the distribution of this SOFTWARE
+    without written permission from the copyright holder.
+
+    You may not use, copy, rent, lease, sell, modify, decompile,
+    disassemble, otherwise reverse engineer, or transfer the SOFTWARE
+    except as provided in this agreement. Any such unauthorized use
+    shall result in immediate and automatic termination of this license.
+
+    --------------------------------------------------------------------
+    DISCLAIMER
+    --------------------------------------------------------------------
+
+    THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+    EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE
+    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+    IN NO EVENT SHALL SHELL LABS BE LIABLE FOR ANY DAMAGES
+    WHATSOEVER INCLUDING DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL,
+    LOSS OF BUSINESS PROFITS OR SPECIAL DAMAGES, EVEN IF AUTHOR HAVE
+    BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+    --------------------------------------------------------------------
+    RESERVED RIGHTS
+    --------------------------------------------------------------------
+
+    All rights not expressly granted here are reserved to Shell Labs.
